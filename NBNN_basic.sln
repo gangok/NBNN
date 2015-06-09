@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NBNN_basic", "NBNN_basic\NBNN_basic.vcxproj", "{EE9A0E03-421E-465D-AC41-D4F8EFF838D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE9A0E03-421E-465D-AC41-D4F8EFF838D9}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EE9A0E03-421E-465D-AC41-D4F8EFF838D9}.Debug|Win32.Build.0 = Debug|Win32
+		{EE9A0E03-421E-465D-AC41-D4F8EFF838D9}.Release|Win32.ActiveCfg = Release|Win32
+		{EE9A0E03-421E-465D-AC41-D4F8EFF838D9}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

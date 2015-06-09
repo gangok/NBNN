@@ -1,0 +1,1 @@
+Features of input images will be saved here.
